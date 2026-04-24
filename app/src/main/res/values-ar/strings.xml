@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">توبة</string>
+
+    <!-- Navigation -->
+    <string name="nav_adhkar">الأذكار</string>
+    <string name="nav_sadaqa">الصدقة</string>
+    <string name="nav_stats">الإحصائيات</string>
+    <string name="nav_settings">الإعدادات</string>
+
+    <!-- Adhkar -->
+    <string name="reset_all">إعادة تعيين الكل</string>
+
+    <!-- Sadaqa -->
+    <string name="add_sadaqa">إضافة صدقة</string>
+    <string name="total_sadaqa">المجموع</string>
+    <string name="this_month">هذا الشهر</string>
+    <string name="no_sadaqa_yet">لم تُسجَّل أي صدقة بعد. اضغط + للإضافة.</string>
+    <string name="amount">المبلغ</string>
+    <string name="currency">العملة</string>
+    <string name="category">الفئة</string>
+    <string name="note">ملاحظة (اختياري)</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="delete">حذف</string>
+
+    <!-- Stats -->
+    <string name="adhkar_stats">الأذكار</string>
+    <string name="sadaqa_stats">الصدقة</string>
+    <string name="total_dhikr_count">إجمالي الأذكار</string>
+    <string name="of_target">من %1$d هدف</string>
+    <string name="overall_progress">التقدم العام</string>
+    <string name="entries_count">%1$d إدخال</string>
+    <string name="by_category">حسب الفئة</string>
+
+    <!-- Settings -->
+    <string name="language">اللغة</string>
+    <string name="dark_mode">الوضع الداكن</string>
+    <string name="vibration">اهتزاز عند النقر</string>
+    <string name="about">عن التطبيق</string>
+    <string name="about_description">توبة تطبيق لمتابعة الأذكار اليومية والصدقات بواجهة بسيطة.</string>
+    <string name="by_leone_studio">من إنتاج Leone Studio</string>
+    <string name="nav_quran">القرآن</string>
+</resources>

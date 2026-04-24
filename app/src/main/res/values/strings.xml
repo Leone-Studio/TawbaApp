@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tawba</string>
+
+    <!-- Navigation -->
+    <string name="nav_adhkar">Adhkar</string>
+    <string name="nav_sadaqa">Sadaqa</string>
+    <string name="nav_stats">Stats</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Adhkar -->
+    <string name="reset_all">Reset all</string>
+
+    <!-- Sadaqa -->
+    <string name="add_sadaqa">Add Sadaqa</string>
+    <string name="total_sadaqa">Total</string>
+    <string name="this_month">This month</string>
+    <string name="no_sadaqa_yet">No sadaqa logged yet. Tap + to add one.</string>
+    <string name="amount">Amount</string>
+    <string name="currency">Currency</string>
+    <string name="category">Category</string>
+    <string name="note">Note (optional)</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+
+    <!-- Stats -->
+    <string name="adhkar_stats">Adhkar</string>
+    <string name="sadaqa_stats">Sadaqa</string>
+    <string name="total_dhikr_count">Total dhikr count</string>
+    <string name="of_target">of %1$d target</string>
+    <string name="overall_progress">Overall progress</string>
+    <string name="entries_count">%1$d entries</string>
+    <string name="by_category">By category</string>
+
+    <!-- Settings -->
+    <string name="language">Language</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="vibration">Vibration on tap</string>
+    <string name="about">About</string>
+    <string name="about_description">Tawba helps you track daily adhkar and sadaqa with a simple, focused interface.</string>
+    <string name="by_leone_studio">by Leone Studio</string>
+    <string name="nav_quran">Qur\'an</string>
+</resources>

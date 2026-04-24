@@ -1,0 +1,27 @@
+# Gradle
+.gradle/
+build/
+/build/
+captures/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+local.properties
+
+# Sensitive files - NEVER commit these
+keystore.properties
+*.jks
+*.keystore
+google-services.json
+
+# Kotlin
+.kotlin/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+keystore.properties.save
+*.save
