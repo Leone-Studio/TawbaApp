@@ -1,0 +1,84 @@
+{
+  "_comment": "Tawba App — Remote Ad Config. Edit this file to switch networks or update IDs instantly, no app update needed.",
+  "_howto": "Set 'active_network' to any key under 'networks'. Set 'ads_enabled' to false to kill all ads remotely.",
+
+  "config_version": 1,
+  "last_updated": "2026-06-11",
+
+  "ads_enabled": true,
+
+  "active_network": "admob",
+
+  "frequency": {
+    "interstitial_cooldown_sec": 90,
+    "actions_before_interstitial": 5
+  },
+
+  "networks": {
+
+    "admob": {
+      "enabled": true,
+      "android": {
+        "banner":                "ca-app-pub-5316305207345920/8628324897",
+        "interstitial":          "ca-app-pub-5316305207345920/4187139124",
+        "rewarded":              "ca-app-pub-5316305207345920/2542884969",
+        "rewarded_interstitial": "ca-app-pub-5316305207345920/5375475596"
+      },
+      "ios": {
+        "banner":                "ca-app-pub-5316305207345920/8628324897",
+        "interstitial":          "ca-app-pub-5316305207345920/4187139124",
+        "rewarded":              "ca-app-pub-5316305207345920/2542884969",
+        "rewarded_interstitial": "ca-app-pub-5316305207345920/5375475596"
+      }
+    },
+
+    "unity": {
+      "enabled": false,
+      "android": {
+        "game_id":      "",
+        "banner":       "",
+        "interstitial": "",
+        "rewarded":     ""
+      },
+      "ios": {
+        "game_id":      "",
+        "banner":       "",
+        "interstitial": "",
+        "rewarded":     ""
+      }
+    },
+
+    "applovin": {
+      "enabled": false,
+      "android": {
+        "sdk_key":      "",
+        "banner":       "",
+        "interstitial": "",
+        "rewarded":     ""
+      },
+      "ios": {
+        "sdk_key":      "",
+        "banner":       "",
+        "interstitial": "",
+        "rewarded":     ""
+      }
+    },
+
+    "ironsource": {
+      "enabled": false,
+      "android": {
+        "app_key":      "",
+        "banner":       "",
+        "interstitial": "",
+        "rewarded":     ""
+      },
+      "ios": {
+        "app_key":      "",
+        "banner":       "",
+        "interstitial": "",
+        "rewarded":     ""
+      }
+    }
+
+  }
+}
